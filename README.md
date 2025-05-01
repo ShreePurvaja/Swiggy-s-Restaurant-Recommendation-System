@@ -70,14 +70,20 @@ streamlit run app.py
 ## 🗂 Project Structure
 
 swiggy-recommendation-system/
+
 ├── app.py                       # Main Streamlit app
+
 ├── Swiggy_Recommendation        # Cleaned dataset (to be added)
+
 ├── requirements.txt             # Python dependencies
+
 └── README.md                    # Documentation
 
 ## 🧑‍💻 Author
-NName : Shree Purvaja D
+Name : Shree Purvaja D
+
 Email :📧 shreepurvaja@gmail.com
+
 LinkedIn : [Shree Purvaja D](https://www.linkedin.com/in/shree-purvaja-d/)
 
 
