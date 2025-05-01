@@ -73,9 +73,12 @@ swiggy-recommendation-system/
 
 ├── app.py                       # Main Streamlit app
 
+
 ├── Swiggy_Recommendation        # Cleaned dataset (to be added)
 
+
 ├── requirements.txt             # Python dependencies
+
 
 └── README.md                    # Documentation
 
@@ -92,6 +95,7 @@ This project is licensed under the MIT License.
 
 ## ⭐ Contribute
 Feel free to fork this repo and build on top of it.
+
 If you find it useful, give it a ⭐ on GitHub
 
 
